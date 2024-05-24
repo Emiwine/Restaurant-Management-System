@@ -27,3 +27,38 @@ After placing the order, the system will ask for your UPI ID.
 Based on the provided UPI ID, QR codes for PhonePe, Paytm, and Google Pay will be generated and displayed.
 Scan the QR code with the respective payment app to complete the payment.
 
+<hr>
+<h4>Example Output</h4>
+
+---------------Welcome to PYTHON Restaurant-------------
+
+Margherita Pizza = Rs250
+Pepperoni Pizza = Rs300
+BBQ Chicken Pizza = Rs350
+Veggie Burger = Rs150
+Cheese Burger = Rs180
+Chicken Burger = Rs200
+Spaghetti Bolognese = Rs220
+Penne Arrabbiata = Rs200
+Caesar Salad = Rs120
+Greek Salad = Rs150
+Espresso = Rs80
+Cappuccino = Rs100
+Latte = Rs120
+Cold Coffee = Rs100
+Fresh Orange Juice = Rs90
+Lemonade = Rs60
+Chocolate Cake = Rs150
+Cheesecake = Rs180
+Ice Cream Sundae = Rs120
+
+Enter the name of the item that you want to order (or type 'exit' to finish): Margherita Pizza
+Your item Margherita Pizza has been added to your order.
+Do you want to add another item? (Yes/No): Yes
+Enter the name of the item that you want to order (or type 'exit' to finish): Espresso
+Your item Espresso has been added to your order.
+Do you want to add another item? (Yes/No): No
+The total amount to pay is Rs330
+Enter the UPI ID = your_upi_id@bank
+
+
